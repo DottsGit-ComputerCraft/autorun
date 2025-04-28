@@ -1,6 +1,3 @@
--- Set aliases
-shell.setAlias("lua", "workspace/utils/lua")
-
 -- Run scripts in workspace/autorun
 print("\n--- Running Autorun Scripts ---")
 local autorunDir = "workspace/autorun"
