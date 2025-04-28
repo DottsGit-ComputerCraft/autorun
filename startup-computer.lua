@@ -1,0 +1,1 @@
+shell.setAlias("lua", "workspace/utils/lua")
