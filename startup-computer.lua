@@ -1,5 +1,5 @@
 -- Run scripts in workspace/autorun
-print("\n--- Running Autorun Scripts ---")
+print("--- Running Autorun Scripts ---")
 local autorunDir = "workspace/autorun"
 if fs.isDir(autorunDir) then
     local files = fs.list(autorunDir)
@@ -24,3 +24,6 @@ if fs.isDir(autorunDir) then
 else
     print("Autorun directory does not exist: " .. autorunDir)
 end
+
+shell.run("cls")
+print("CraftOS 1.8 - Dott's Env")
