@@ -26,4 +26,4 @@ else
 end
 
 shell.run("cls")
-print("CraftOS 1.8 - Dott's Env")
+print("CraftOS 1.8 - Dotts's Env")
