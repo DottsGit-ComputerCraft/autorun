@@ -1,2 +1,2 @@
 -- Set aliases
-shell.setAlias("lua", "workspace/utils/lua")
+shell.setAlias("lua", "workspace/utils/lua.lua")
